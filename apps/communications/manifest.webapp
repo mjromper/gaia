@@ -62,9 +62,5 @@
       "href": "/dialer/index.html",
       "disposition": "window"
     }
-  },
-  "messages": [
-     { "telephony-incoming": "/dialer/index.html" },
-     { "icc-dialing": "/dialer/index.html" }
-  ]
+  }
 }

@@ -70,12 +70,6 @@
         "type": "url"
       },
       "href": "/index.html"
-    },
-    "view": {
-      "filters": {
-        "type": "application/x-application-list"
-      },
-      "href": "/index.html"
     }
   }
 }
